@@ -1,0 +1,13 @@
+{
+  "name": "zySnaker",
+  "version": "0.0.1",
+  "description": "zygame",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lei Zeng <zengleizzz@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+  }
+}
